@@ -1,0 +1,25 @@
+ .done {
+    color: greenyellow;
+}
+i {
+    display: inline-block;
+    padding-left: 20px;
+} 
+button {
+    width: 6%;
+    height: 25px;
+    font-size: 17px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    border: none;
+    background-color: white;
+    border-radius: 10%;
+    box-shadow: 1px 1px 1px grey;
+    outline: none;
+}
+
+ul {
+    font-size: 20px;
+    font-weight: 200;
+}
